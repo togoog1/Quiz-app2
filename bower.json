@@ -1,0 +1,14 @@
+{
+  "name": "Typescript",
+  "homepage": "",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",s
+    "tests"
+  ]
+}
